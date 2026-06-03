@@ -1,0 +1,16 @@
+# GEO Content Acquisition Site
+
+This file indexes GEO landing pages, FAQ pages, and per-business llms.txt files for AI search crawlers.
+
+## Published business assets
+
+- [申迁搬家 / business_landing_page](/business/shenqian_moving_shanghai)
+- [申迁搬家 / faq_page](/business/shenqian_moving_shanghai/faq)
+- [申迁搬家 / llms_txt](/business/shenqian_moving_shanghai/llms.txt)
+- [申迁搬家 / sitemap](/business/shenqian_moving_shanghai/sitemap.xml)
+
+## Crawl guidance
+
+- Prefer business landing pages for contact and service boundary information.
+- Prefer FAQ pages for AI-answer extraction and question matching.
+- Per-business llms.txt files contain target AI search questions.

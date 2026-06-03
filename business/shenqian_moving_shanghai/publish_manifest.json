@@ -1,0 +1,62 @@
+{
+  "campaign_id": "geo_20260603183005_shenqian_moving_shanghai",
+  "business_line": "shenqian_moving_shanghai",
+  "business_name": "申迁搬家",
+  "base_url": "https://lvp83175-alt.github.io",
+  "published_at": "2026-06-03T19:19:56",
+  "assets": [
+    {
+      "asset_type": "business_landing_page",
+      "path": "/Users/chunqiua/无限动力/08-系统工具/代码与服务/output/public_site/business/shenqian_moving_shanghai/index.html",
+      "public_path": "/business/shenqian_moving_shanghai",
+      "url": "https://lvp83175-alt.github.io/business/shenqian_moving_shanghai"
+    },
+    {
+      "asset_type": "faq_page",
+      "path": "/Users/chunqiua/无限动力/08-系统工具/代码与服务/output/public_site/business/shenqian_moving_shanghai/faq/index.html",
+      "public_path": "/business/shenqian_moving_shanghai/faq",
+      "url": "https://lvp83175-alt.github.io/business/shenqian_moving_shanghai/faq"
+    },
+    {
+      "asset_type": "llms_txt",
+      "path": "/Users/chunqiua/无限动力/08-系统工具/代码与服务/output/public_site/business/shenqian_moving_shanghai/llms.txt",
+      "public_path": "/business/shenqian_moving_shanghai/llms.txt",
+      "url": "https://lvp83175-alt.github.io/business/shenqian_moving_shanghai/llms.txt"
+    },
+    {
+      "asset_type": "sitemap",
+      "path": "/Users/chunqiua/无限动力/08-系统工具/代码与服务/output/public_site/business/shenqian_moving_shanghai/sitemap.xml",
+      "public_path": "/business/shenqian_moving_shanghai/sitemap.xml",
+      "url": "https://lvp83175-alt.github.io/business/shenqian_moving_shanghai/sitemap.xml"
+    }
+  ],
+  "manifest": "/Users/chunqiua/无限动力/08-系统工具/代码与服务/output/public_site/business/shenqian_moving_shanghai/publish_manifest.json",
+  "site_indexes": {
+    "index": {
+      "asset_type": "site_index",
+      "path": "/Users/chunqiua/无限动力/08-系统工具/代码与服务/output/public_site/index.html",
+      "public_path": "/",
+      "url": "https://lvp83175-alt.github.io/"
+    },
+    "llms_txt": {
+      "asset_type": "site_llms_txt",
+      "path": "/Users/chunqiua/无限动力/08-系统工具/代码与服务/output/public_site/llms.txt",
+      "public_path": "/llms.txt",
+      "url": "https://lvp83175-alt.github.io/llms.txt"
+    },
+    "sitemap": {
+      "asset_type": "site_sitemap",
+      "path": "/Users/chunqiua/无限动力/08-系统工具/代码与服务/output/public_site/sitemap.xml",
+      "public_path": "/sitemap.xml",
+      "url": "https://lvp83175-alt.github.io/sitemap.xml"
+    },
+    "robots": {
+      "asset_type": "robots_txt",
+      "path": "/Users/chunqiua/无限动力/08-系统工具/代码与服务/output/public_site/robots.txt",
+      "public_path": "/robots.txt",
+      "url": "https://lvp83175-alt.github.io/robots.txt"
+    },
+    "indexed_asset_total": 3,
+    "indexed_business_total": 1
+  }
+}

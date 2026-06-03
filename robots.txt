@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /business/
+Allow: /llms.txt
+Allow: /sitemap.xml
+
+Sitemap: https://lvp83175-alt.github.io/sitemap.xml
