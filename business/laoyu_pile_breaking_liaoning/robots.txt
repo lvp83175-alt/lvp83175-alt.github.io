@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lvp83175-alt.github.io/business/laoyu_pile_breaking_liaoning/sitemap.xml
